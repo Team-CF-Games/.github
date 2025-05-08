@@ -18,13 +18,13 @@ Voici nos projets en cours :
 
 
 - **cf-site** : Le code source du site web de CF Games. Il présente nos projets et permet aux contributeurs de suivre nos activités.
- ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
- [![Voir le projet](https://img.shields.io/badge/👉%20Voir_le_projet-181717?style=for-the-badge&logo=github)](https://github.com/Team-CF-Games/cf-site)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  [![Voir le projet](https://img.shields.io/badge/👉%20Voir_le_projet-181717?style=for-the-badge&logo=github)](https://github.com/Team-CF-Games/cf-site)
 
 
 - **Telechargeur-Cool-OS** : Un programme pour télécharger un fichier hébergé sur un site.
- ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
- [![Voir le projet](https://img.shields.io/badge/👉%20Voir_le_projet-181717?style=for-the-badge&logo=github)](https://github.com/Team-CF-Games/Telechargeur-Cool-OS)
+  ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
+  [![Voir le projet](https://img.shields.io/badge/👉%20Voir_le_projet-181717?style=for-the-badge&logo=github)](https://github.com/Team-CF-Games/Telechargeur-Cool-OS)
 
 
 ## Rejoindre l'aventure
