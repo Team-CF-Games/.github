@@ -36,7 +36,8 @@ Tu peux également visiter notre site web : [![Site Web](https://img.shields.io/
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésite pas à nous contacter par email à : creatif.france@outlook.com
+Pour toute question ou suggestion, n'hésite pas à nous contacter par email à : creatif.france@outlook.com [![Email](https://img.shields.io/badge/📩%20Envoyer_un_mail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creatif.france@outlook.com)
+
 
 ---
 
