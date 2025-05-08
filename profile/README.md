@@ -29,9 +29,10 @@ Voici nos projets en cours :
 
 ## Rejoindre l'aventure
 
-Tu es développeur et tu souhaites contribuer à nos projets ? Rejoins-nous sur notre serveur Discord : [https://discord.gg/Zzcb9j8BTJ](https://discord.gg/Zzcb9j8BTJ)
+Tu es développeur et tu souhaites contribuer à nos projets ? Rejoins-nous sur notre serveur Discord : [![Discord](https://img.shields.io/badge/💬%20Rejoindre_le_serveur_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Zzcb9j8BTJ)
 
-Tu peux également visiter notre site web : [https://cfgames.fr.nf](https://cfgames.fr.nf)
+Tu peux également visiter notre site web : [![Site Web](https://img.shields.io/badge/🌍%20Visiter_le_site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cfgames.fr.nf)
+
 
 ## Contact
 
