@@ -28,6 +28,9 @@ Tu peux également visiter notre site web : [https://cfgames.fr.nf](https://cfga
 
 Pour toute question ou suggestion, n'hésite pas à nous contacter par email à : creatif.france@outlook.com
 
+## Statut
+
+![Last Commit](https://img.shields.io/github/last-commit/Team-CF-Games/cf-games-bot)
 ---
 
 Merci de ton intérêt pour la Team CF Games ! 🚀
