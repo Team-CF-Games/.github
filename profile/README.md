@@ -12,11 +12,11 @@ Créée par Creatif France Games, la Team CF Games est une communauté de dével
 
 Voici nos projets en cours :
 
-- **cf-games-bot** : Un bot Discord conçu pour ajouter des commandes fun à ton serveur. Il permet de lancer un dé, d'obtenir une blague aléatoire, d'envoyer un compliment, de vérifier la latence et d'afficher des informations sur le bot. [Voir le projet](https://github.com/Team-CF-Games/cf-games-bot)
+- **cf-games-bot** : Un bot Discord conçu pour ajouter des commandes fun à ton serveur. Il permet de lancer un dé, d'obtenir une blague aléatoire, d'envoyer un compliment, de vérifier la latence et d'afficher des informations sur le bot. [Voir le projet](https://github.com/Team-CF-Games/cf-games-bot) ![License](https://img.shields.io/badge/license-CC%20BY-blue)
 
-- **cf-site** : Le code source du site web de CF Games. Il présente nos projets et permet aux contributeurs de suivre nos activités. [Voir le projet](https://github.com/Team-CF-Games/cf-site)
+- **cf-site** : Le code source du site web de CF Games. Il présente nos projets et permet aux contributeurs de suivre nos activités. [Voir le projet](https://github.com/Team-CF-Games/cf-site) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-- **Telechargeur-Cool-OS** : Un programme pour télécharger un fichier hébergé sur un site. [Voir le projet](https://github.com/Team-CF-Games/Telechargeur-Cool-OS)
+- **Telechargeur-Cool-OS** : Un programme pour télécharger un fichier hébergé sur un site. [Voir le projet](https://github.com/Team-CF-Games/Telechargeur-Cool-OS) ![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 ## Rejoindre l'aventure
 
@@ -28,9 +28,6 @@ Tu peux également visiter notre site web : [https://cfgames.fr.nf](https://cfga
 
 Pour toute question ou suggestion, n'hésite pas à nous contacter par email à : creatif.france@outlook.com
 
-## Statut
-
-![Last Commit](https://img.shields.io/github/last-commit/Team-CF-Games/cf-games-bot)
 ---
 
 Merci de ton intérêt pour la Team CF Games ! 🚀
